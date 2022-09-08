@@ -1,0 +1,32 @@
+.divCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+}
+
+#chooseIam {
+    width: 74.2031px;
+}
+
+#img1 {
+    width: 320px;
+    height: 320px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.choose {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: red;
+}
